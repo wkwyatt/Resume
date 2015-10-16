@@ -1,3 +1,30 @@
 body {
 	
 }
+
+#container {
+	max-width: 900px;
+	margin: auto;
+}
+
+.header {
+	text-align: center;
+}
+.skills ul {
+	text-align: center;
+	padding: 0;
+}
+
+.skills ul li {
+	list-style-type: none;
+	margin:auto;
+	display: inline-block;
+}
+
+.education {
+	text-align: center;
+}
+
+.work-history .work-history-item .company .company-name {
+	font-weight: bold;
+}
